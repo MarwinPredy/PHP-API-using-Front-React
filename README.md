@@ -18,14 +18,16 @@ cd ./client && npm run start
 
 ## Author
 
-👤 **Marwin Predy**
+👤 **Marwin Predy(Back-End)**
 
 * Github: [@MarwinPredy](https://github.com/MarwinPredy)
-* LinkedIn: [@Marwin Predy ](https://linkedin.com/in/Marwin Predy )
+* LinkedIn: [@MarwinPredy](https://linkedin.com/in/MarwinPredy)
+
+👤 **Tristan Ramirez(Front-End)**
+
+* Github: [@ttRmz](https://github.com/ttRmz)
+* LinkedIn: [@TristanRamirez](https://www.linkedin.com/in/tristan-ramirez-06347a132/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
